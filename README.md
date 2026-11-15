@@ -7,10 +7,10 @@ CS student in Dallas building full-stack AI apps, real-time web games, and compu
 - Learning agents, RAG, and agentic workflows by shipping small AI projects
 
 ### Tech stack
-**Languages:** Python · JavaScript / TypeScript · Java
-**Frontend:** React · React Native / Expo · HTML / CSS · Vite
-**Backend & data:** Supabase (Postgres, RLS, Edge Functions) · Firebase Firestore · Streamlit
-**AI / CV:** LLM APIs (Gemini, Claude) · MediaPipe hand tracking · Canvas 2D
+- **Languages:** Python · JavaScript / TypeScript · Java
+- **Frontend:** React · React Native / Expo · HTML / CSS · Vite
+- **Backend & data:** Supabase (Postgres, RLS, Edge Functions) · Firebase Firestore · Streamlit
+- **AI / CV:** LLM APIs (Gemini, Claude) · MediaPipe hand tracking · Canvas 2D
 
 ### Featured projects
 | Project | What it is |
