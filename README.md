@@ -1,4 +1,4 @@
-## Hi, I'm Han Han 👋
+## Hi, I'm Han Han Nguyen
 
 CS student in Dallas building full-stack AI apps, real-time web games, and computer-vision experiments. Looking for **SWE / AI Engineering internships**.
 
